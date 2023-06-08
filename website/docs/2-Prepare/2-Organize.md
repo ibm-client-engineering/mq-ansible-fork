@@ -1,5 +1,5 @@
 ---
 id: organize
-sidebar_position: 2
+sidebar_position: 1
 title: Organize
 ---
